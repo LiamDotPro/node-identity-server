@@ -1,0 +1,33 @@
+{
+  "name": "node-identity-server",
+  "version": "0.0.2",
+  "description": "A package that allows you to verify & create identity server 2/3/4 hashes in nodeJS",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "dependencies": {
+    "aspnet-identity-pw": "^1.0.2"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "nodemon": "^1.17.2",
+    "nyc": "^11.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiamDotPro/node-identity-server.git"
+  },
+  "keywords": [
+    "nodeJS",
+    "identity-server",
+    "javascript"
+  ],
+  "author": "Liam Read & Buddhi Tamang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LiamDotPro/node-identity-server/issues"
+  },
+  "homepage": "https://github.com/LiamDotPro/node-identity-server#readme"
+}
